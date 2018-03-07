@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,49 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* M.S. in Computer Science (2019),
+	  University of Massachusetts
+	  Amherst, MA, USA
 
+* B.E. in Electronics and Communication Engineering (2017), 
+	  SSN College of Engineering, Anna University, 
+	  Chennai, India
+	
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Computer Vision Intern
+  * [e-Farmerce](https://e-Farmerce.com)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2016: Computer Vision Intern
+  * [Indria Labs (now AttentiveAI)](https://attentive.ai)
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, Java, MATLAB
+* Tensorflow, Keras, OpenCV
+* Git, Heroku
+* Arduino
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* President, Q! - Q Factorial, the Quiz Club of SSNCE (2016-17)
+* Chief Scriptwriter, Lights Out Please! - the theater group of SSNCE (2016-17)
