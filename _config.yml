@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "A Place Under The Sun"
+title                    : 
 title_separator          : ""
 name                     : &name "Sreenivas Venkobarao"
 description              : &description "personal description"
