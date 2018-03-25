@@ -37,7 +37,7 @@ Skills
 * Arduino
 
   
-Service and leadership
+Extra-Curricular Activities
 ======
 * President, Q! - [Q Factorial, the Quiz Club of SSNCE](https://www.facebook.com/QFactorial/) (2016-17)
 * Chief Scriptwriter, [Lights Out Please! - the theater group of SSNCE](https://www.facebook.com/LightsOutPlease/) (2016-17)
