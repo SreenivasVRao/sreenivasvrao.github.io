@@ -12,12 +12,12 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science (2019),
-	  University of Massachusetts
+* M.S. in Computer Science (2019),<br/>
+	  University of Massachusetts<br/>
 	  Amherst, MA, USA
 
-* B.E. in Electronics and Communication Engineering (2017), 
-	  SSN College of Engineering, Anna University, 
+* B.E. in Electronics and Communication Engineering (2017),<br/>
+	  SSN College of Engineering, Anna University, <br/>
 	  Chennai, India
 	
 Work experience
