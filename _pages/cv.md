@@ -38,5 +38,5 @@ Skills
   
 Service and leadership
 ======
-* President, Q! - Q Factorial, the Quiz Club of SSNCE (2016-17)
-* Chief Scriptwriter, Lights Out Please! - the theater group of SSNCE (2016-17)
+* President, Q! - [Q Factorial, the Quiz Club of SSNCE](https://www.facebook.com/QFactorial/) (2016-17)
+* Chief Scriptwriter, [Lights Out Please! - the theater group of SSNCE](https://www.facebook.com/LightsOutPlease/) (2016-17)
