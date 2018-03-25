@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi there. I'm Sreenivas, a Masters student at the College of Information & Computer Sciences, at UMass Amherst. I love all things Computer Vision and Machine Learning. You might know me as the guy behind (that bot)[http://reddit.com/u/riskyclickerbot] from (that website)[http://reddit.com].
+Hi there. I'm Sreenivas, a Masters student at the College of Information & Computer Sciences, at UMass Amherst. I love all things Computer Vision and Machine Learning. You might know me as the guy behind [that bot](http://reddit.com/u/riskyclickerbot) from [that website](http://reddit.com).
 
-I grew up in Chennai, India - the land of _idly_ and filter coffee. Before coming to UMass, I studied Electronics and Communication Engineering at (SSN College of Engineering)[http://www.ssn.edu.in/].
+I grew up in Chennai, India - the land of _idly_ and filter coffee. Before coming to UMass, I studied Electronics and Communication Engineering at [SSN College of Engineering](http://www.ssn.edu.in/).
