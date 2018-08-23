@@ -29,6 +29,9 @@ Publications
  
 Research Projects
 ======
+* Xerox Palo Alto Research Center, California
+	* <u>Interactions & Analytics Lab Summer Intern 2018</u> <br/>  Worked under Dr. <u><a href="https://www.parc.com/about/people/3058/matthew-shreve.html">Matthew Shreve</a></u> on building tools for reconstructing and annotating 3D objects.
+
 * Computer Vision Lab, UMass Amherst
 	* <u>Camera Rotation Estimation</u> <br/>  Currently working under Professor <u><a href="http://people.cs.umass.edu/~elm/">Erik Learned-Miller</a></u> on devising methods to estimate camera rotation from a sequence of images, and investigate improvements in motion segmentation.
 	
@@ -43,9 +46,6 @@ Research Projects
 	
 Work experience
 ======
-* Summer 2017: Computer Vision Intern
-  * <u><a href="https://e-Farmerce.com"> e-Farmerce</a> </u> <br/> I built a prototype system for identifying coconut farms from satellite imagery. Additionally, I implemented a system to extract images, label them manually, and train Deep Learning models on the data. In the process, I gained experience with Ruby, and deep learning frameworks. 
-
 * Summer 2016: Computer Vision Intern
   * <u><a href="https://attentive.ai">Indria Labs (now AttentiveAI)</a></u> <br/>I explored different methods for abandoned object recognition from CCTV surveillance footage. I also built a dataset for luggage detection to train different Machine Learning algorithms. During this time, I gained exposure to Convolutional Neural Networks (CNNs), Online Learning, and Boosting algorithms. 
   
