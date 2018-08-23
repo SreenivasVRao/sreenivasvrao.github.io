@@ -21,11 +21,6 @@ Education
 Skills
 ======
 Python, Java, MATLAB, Tensorflow, Keras, OpenCV, Git, Heroku, Arduino
-
-
-Publications
-=======
- S. Murali, R. Shrivatsan, **V. Sreenivas**, S. Vijjappu, S. J. Gladwin and R. Rajavel, <u><a href="https://ieeexplore.ieee.org/abstract/document/7906791/">Smart walking cane for the visually challenged</a></u>,  2016 IEEE Region 10 Humanitarian Technology Conference (R10-HTC), Agra, 2016, pp. 1-4.
  
 Research Projects
 ======
