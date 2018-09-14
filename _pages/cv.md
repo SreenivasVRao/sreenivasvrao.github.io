@@ -35,11 +35,7 @@ Research Projects
 	
 *	UMass CS682 Deep Learning Course Project <br/>
 	* <u>Learning Representations using Colorization as a Proxy Task</u><br/> Analyzed the effectiveness of self-supervised deep learning methods using auto-encoders, for the task of learning representations of images. Conceived and examined modifications to state of the art CNN architectures for image colorization. 
-=======
 
-* M.S. in Computer Science (2019),<br/>
-	  University of Massachusetts<br/>
-	  Amherst, MA, USA
 * Dept. of ECE, SSN College of Engineering, 
 	* <u>Human Action Recognition from Videos </u> <br/> Worked under <u><a href= "http://www.ssn.edu.in/?page_id=1892"> Dr. N. Venkateswaran</a></u>, on identifying actions from videos, using CNN architectures. Designed a novel feature descriptor leveraging CNNs and classical Computer Vision approaches, and inspected performance. Gained exposure to video analysis, and popular frameworks like OpenCV, and Keras.
 	
