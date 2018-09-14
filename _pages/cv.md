@@ -12,9 +12,15 @@ redirect_from:
 
 Education
 ======
+<<<<<<< HEAD
 * M.S. in Computer Science (2019),<br/>
 	  University of Massachusetts<br/>
 	  Amherst, MA, USA
+=======
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+>>>>>>> 62b9a9a258fc3903deb111fecca61cb8b36fbf77
 
 * B.E. in Electronics and Communication Engineering (2017),<br/>
 	  SSN College of Engineering, Anna University, <br/>
