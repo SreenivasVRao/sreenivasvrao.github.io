@@ -15,7 +15,7 @@ We got very comfortable with homogeneous co-ordinates, and affine transforms in 
 What are affine transforms?
 =======
 
-Consider a sheet of paper on a table in front of you. If you move it around on the table, you're _translating_ its position in the the plane. You can also _rotate_ the sheet, without picking it up. These are simple affine transforms. If the paper was magical, or were you a wizard, you could expand its size, i.e., scale it up. That's also an affine transform. Let's look at the visualization earlier on the page again:
+Consider a sheet of paper on a table in front of you. If you move it around on the table, you're ranslating_ its position in the the plane. You can also _rotate_ the sheet, without picking it up. These are simple affine transforms. If the paper was magical, or were you a wizard, you could expand its size, i.e., scale it up. That's also an affine transform. Let's look at the visualization earlier on the page again:
 
 |X-axis Translation| Y-axis Translation | Scale X, Y | Rotate along X|
 |:-----:|:-----:|:-----:|:-----:|
@@ -29,15 +29,17 @@ $$ ax + by + c = \overline{X} $$
 
 $$ dx + ey + f =\overline{Y} $$
 
-By controlling the  parameters $ a, b, c, d, e, f $, we control how the transform shifts $(X, Y)$ to $(\overline{X}, \overline{Y})$.
+By controlling the  parameters \\( a, b, c, d, e, f \\), we control how the transform shifts $(X, Y)$ to $(\overline{X}, \overline{X})$.
 
 For example, the rotation component is given by:
 
-$$\begin{pmatrix}a=cos\theta & b = sin\theta\\ d = -sin\theta & e = cos\theta\end{pmatrix} $$
+$$\begin{matrix}a = cos\theta  & & b = sin\theta \\
+d = -sin\theta & & e = cos\theta
+\end{matrix}$$
 
 And the translation component is given by:
 
-$$ \begin{matrix}c = t_x  \& \& f = t_y \end{matrix} $$
+$$\begin{matrix}c = t_x  & & f = t_y \\\end{matrix}$$
 
 So a single rotation + translation is given by:
 
@@ -48,8 +50,8 @@ $$ - X sin\theta + Y cos\theta + t_y =  \overline{Y} $$
 We can represent this pair of equations as a matrix multiplication:
 
 $$ \begin{bmatrix}
-a \& b \&  c \\
-d \&  e \& f \\
+a & b & c \\
+d & e & f \\
 \end{bmatrix}\begin{bmatrix}X\\Y\\ 1\\\end{bmatrix} = \begin{bmatrix}\overline{X}\\ \overline{Y}\\ \end{bmatrix}$$
 
 The advantage of this matrix multiplication is that we can extend it to several more points by simple concatenation :)
@@ -57,7 +59,7 @@ The advantage of this matrix multiplication is that we can extend it to several 
 $$
 \begin{bmatrix}
 a & b & c \\
-d & e & f \\
+d & e & f
 \end{bmatrix} 
 \begin{bmatrix}
 X_1 & X_2 & X_3 & \dots & X_K\\
@@ -66,7 +68,7 @@ Y_1 & Y_2 & Y_3 & \dots & Y_K\\
 \end{bmatrix}=
 \begin{bmatrix}
 \overline{X}_1 & \overline{X}_2 & \overline{X}_3 & \dots & \overline{X}_K\\
-\overline{Y}_1 & \overline{Y}_2 & \overline{Y}_3 & \dots & \overline{Y}_K\\
+\overline{Y}_1 & \overline{Y}_2 & \overline{Y}_3 & \dots & \overline{Y}_K
 \end{bmatrix}
 $$
 
@@ -76,10 +78,10 @@ $$
 M P = \overline{P}
 $$
 
-Now using these equations, and python magic, we can come up with a neat visualization.
+Now using these equations, and [python magic](https://gist.github.com/SreenivasVRao/d3036982d0ea443e09b10f8a867bac20), we can come up with a neat visualization.
 
 |X-axis Translation| Y-axis Translation |
 |:-----:|:-----:|
 |<img src="https://i.imgur.com/nbo0Juk.gif" alt="drawing"/>| <img src="https://i.imgur.com/ifGTg1w.gif" alt="drawing"/>|
 
-In my next post, we're going to go backwards- from these frames, to the original points! Code to make the visualization seen above is [here.](https://gist.github.com/SreenivasVRao/d3036982d0ea443e09b10f8a867bac20)
+In my next post, we're going to go backwards- from these frames, to the original points!
