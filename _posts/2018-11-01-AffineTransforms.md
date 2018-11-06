@@ -15,7 +15,7 @@ We got very comfortable with homogeneous co-ordinates, and affine transforms in 
 What are affine transforms?
 =======
 
-Consider a sheet of paper on a table in front of you. If you move it around on the table, you're ranslating_ its position in the the plane. You can also _rotate_ the sheet, without picking it up. These are simple affine transforms. If the paper was magical, or were you a wizard, you could expand its size, i.e., scale it up. That's also an affine transform. Let's look at the visualization earlier on the page again:
+Consider a sheet of paper on a table in front of you. If you move it around on the table, you're _translating_ its position in the the plane. You can also _rotate_ the sheet, without picking it up. These are simple affine transforms. If the paper was magical, or were you a wizard, you could expand its size, i.e., scale it up. That's also an affine transform. Let's look at the visualization earlier on the page again:
 
 |X-axis Translation| Y-axis Translation | Scale X, Y | Rotate along X|
 |:-----:|:-----:|:-----:|:-----:|
@@ -29,7 +29,7 @@ $$ ax + by + c = \overline{X} $$
 
 $$ dx + ey + f =\overline{Y} $$
 
-By controlling the  parameters \\( a, b, c, d, e, f \\), we control how the transform shifts $(X, Y)$ to $(\overline{X}, \overline{X})$.
+By controlling the  parameters $ a, b, c, d, e, f $, we control how the transform shifts $(X, Y)$ to $(\overline{X}, \overline{X})$.
 
 For example, the rotation component is given by:
 
@@ -78,10 +78,10 @@ $$
 M P = \overline{P}
 $$
 
-Now using these equations, and [python magic](https://gist.github.com/SreenivasVRao/d3036982d0ea443e09b10f8a867bac20), we can come up with a neat visualization.
+Now using these equations, and python magic, we can come up with a neat visualization.
 
 |X-axis Translation| Y-axis Translation |
 |:-----:|:-----:|
 |<img src="https://i.imgur.com/nbo0Juk.gif" alt="drawing"/>| <img src="https://i.imgur.com/ifGTg1w.gif" alt="drawing"/>|
 
-In my next post, we're going to go backwards- from these frames, to the original points!
+In my next post, we're going to go backwards- from these frames, to the original points! Code to make the visualization seen above is [here.](https://gist.github.com/SreenivasVRao/d3036982d0ea443e09b10f8a867bac20)
