@@ -33,13 +33,13 @@ By controlling the  parameters $ a, b, c, d, e, f $, we control how the transfor
 
 For example, the rotation component is given by:
 
-$$ \begin{matrix}a = cos\theta  & & b = sin\theta \\
-d = -sin\theta & & e = cos\theta
+$$ \begin{matrix}a = cos\theta  \& \& b = sin\theta \\
+d = -sin\theta \& \& e = cos\theta
 \end{matrix} $$
 
 And the translation component is given by:
 
-$$ \begin{matrix}c = t_x  & & f = t_y \\\end{matrix} $$
+$$ \begin{matrix}c = t_x  \& \& f = t_y \\\end{matrix} $$
 
 So a single rotation + translation is given by:
 
@@ -50,8 +50,8 @@ $$ - X sin\theta + Y cos\theta + t_y =  \overline{Y} $$
 We can represent this pair of equations as a matrix multiplication:
 
 $$ \begin{bmatrix}
-a &amp; b &amp; c \\
-d &amp; e &amp; f \\
+a \& b \&  c \\
+d \&  e \& f \\
 \end{bmatrix}\begin{bmatrix}X\\Y\\ 1\\\end{bmatrix} = \begin{bmatrix}\overline{X}\\ \overline{Y}\\ \end{bmatrix}$$
 
 The advantage of this matrix multiplication is that we can extend it to several more points by simple concatenation :)
