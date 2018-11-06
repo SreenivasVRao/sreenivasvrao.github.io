@@ -32,6 +32,23 @@ $$ dx + ey + f =\overline{Y} $$
 By controlling the  parameters $ a, b, c, d, e, f $, we control how the transform shifts $(X, Y)$ to $(\overline{X}, \overline{Y})$.
 
 For example, the rotation component is given by:
+$$
+\begin{align*}
+A=\begin{pmatrix}  
+		1 & a_{11} & a_{12} & \cdots & a_{1m}  \\
+        1 & a_{21} & a_{22} & \cdots & a_{2m} \\
+        \vdots &\vdots & \vdots & \ddots & \vdots \\
+        1 & a_{n1} & a_{n2} & \cdots & a_{nm} \\
+  \end{pmatrix}
+\quad
+b=\begin{pmatrix}  
+		b_{1}\\
+        b_{2}\\
+        \vdots \\
+        b_{n}\\
+  \end{pmatrix}
+\end{align*}
+$$
 
 $${\displaystyle {\begin{bmatrix}1&0&0\\\0&1&0\\\0&0&1\end{bmatrix}}}$$
 
