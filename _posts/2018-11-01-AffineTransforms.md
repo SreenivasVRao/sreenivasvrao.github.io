@@ -29,13 +29,15 @@ $$ ax + by + c = \overline{X} $$
 
 $$ dx + ey + f =\overline{Y} $$
 
-By controlling the  parameters $ a, b, c, d, e, f $, we control how the transform shifts $(X, Y)$ to $(\overline{X}, \overline{X})$.
+By controlling the  parameters $ a, b, c, d, e, f $, we control how the transform shifts $(X, Y)$ to $(\overline{X}, \overline{Y})$.
 
 For example, the rotation component is given by:
 
-$${\displaystyle \left[{\begin{array}{c}{\vec {y}}\\1\end{array}}\right]=M\left[{\begin{array}{c}{\vec {x}}\\1\end{array}}\right]}$$
+$$\left[{\begin{array}{c}{\vec {y}}\\1\end{array}}\right]=M\left[{\begin{array}{c}{\vec {x}}\\1\end{array}}\right]$$
 
-$$ \begin{matrix}a = cos\theta & b = sin\theta\\ d = -sin\theta & e = cos\theta\end{matrix} $$
+$${\displaystyle {\begin{bmatrix}1&0&0\\0&1&0\\0&0&1\end{bmatrix}}}$$
+
+$$\begin{matrix}a=cos\theta & b = sin\theta\\ d = -sin\theta & e = cos\theta\end{matrix} $$
 
 And the translation component is given by:
 
