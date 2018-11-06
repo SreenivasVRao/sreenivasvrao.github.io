@@ -50,8 +50,6 @@ b=\begin{pmatrix}
 \end{align*}
 $$
 
-$${\displaystyle {\begin{bmatrix}1&0&0\\\0&1&0\\\0&0&1\end{bmatrix}}}$$
-
 $$\begin{matrix}a=cos\theta \& b = sin\theta\\ d = -sin\theta \& e = cos\theta\end{matrix} $$
 
 And the translation component is given by:
