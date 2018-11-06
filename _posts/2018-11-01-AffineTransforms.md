@@ -33,7 +33,9 @@ By controlling the  parameters $ a, b, c, d, e, f $, we control how the transfor
 
 For example, the rotation component is given by:
 
-$$ \begin{matrix}a = cos\theta & b = sin\theta\\\\d = -sin\theta & e = cos\theta\end{matrix} $$
+$${\displaystyle \left[{\begin{array}{c}{\vec {y}}\\1\end{array}}\right]=M\left[{\begin{array}{c}{\vec {x}}\\1\end{array}}\right]}$$
+
+$$ \begin{matrix}a = cos\theta & b = sin\theta\\ d = -sin\theta & e = cos\theta\end{matrix} $$
 
 And the translation component is given by:
 
