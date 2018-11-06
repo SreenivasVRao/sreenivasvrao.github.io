@@ -50,8 +50,8 @@ $$ - X sin\theta + Y cos\theta + t_y =  \overline{Y} $$
 We can represent this pair of equations as a matrix multiplication:
 
 $$ \begin{bmatrix}
-a & b & c \\
-d & e & f \\
+a &amp; b &amp; c \\
+d &amp; e &amp; f \\
 \end{bmatrix}\begin{bmatrix}X\\Y\\ 1\\\end{bmatrix} = \begin{bmatrix}\overline{X}\\ \overline{Y}\\ \end{bmatrix}$$
 
 The advantage of this matrix multiplication is that we can extend it to several more points by simple concatenation :)
