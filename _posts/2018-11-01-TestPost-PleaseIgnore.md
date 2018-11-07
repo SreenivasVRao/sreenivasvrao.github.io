@@ -5,7 +5,7 @@ permalink: /blog/TestPost-PleaseIgnore/
 tags:
   - November
 ---
-Test12
+Test13
 \\[
 A=\left[
 \begin{array}\\\
@@ -48,7 +48,7 @@ d & e & f
 X\\\
 Y\\\
 1
-end{bmatrix}= 
+end{bmatrix}=
 \begin{bmatrix}
 \overline{X}\\\
 \overline{Y}
