@@ -60,16 +60,16 @@ We can represent this pair of equations as a matrix multiplication:
 \begin{align*}
 \begin{bmatrix}
 a & b & c \\\
-d & e & f \\\
+d & e & f 
 \end{bmatrix}
 \begin{bmatrix}
 X\\\
 Y\\\ 
-1\\\
+1
 end{bmatrix} = 
 \begin{bmatrix}
 \overline{X}\\\
-\overline{Y}\\\
+\overline{Y}
 \end{bmatrix}
 \end{align*}
 \\]
