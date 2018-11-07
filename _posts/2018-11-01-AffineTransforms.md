@@ -15,7 +15,7 @@ We got very comfortable with homogeneous co-ordinates, and affine transforms in 
 What are affine transforms?
 =======
 
-Consider a sheet of paper on a table in front of you. If you move it around on the table, you're ranslating_ its position in the the plane. You can also _rotate_ the sheet, without picking it up. These are simple affine transforms. If the paper was magical, or were you a wizard, you could expand its size, i.e., scale it up. That's also an affine transform. Let's look at the visualization earlier on the page again:
+Consider a sheet of paper on a table in front of you. If you move it around on the table, you're _translating_ its position in the the plane. You can also _rotate_ the sheet, without picking it up. These are simple affine transforms. If the paper was magical, or were you a wizard, you could expand its size, i.e., scale it up. That's also an affine transform. Let's look at the visualization earlier on the page again:
 
 |X-axis Translation| Y-axis Translation | Scale X, Y | Rotate along X|
 |:-----:|:-----:|:-----:|:-----:|
