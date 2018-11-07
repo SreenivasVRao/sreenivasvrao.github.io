@@ -29,7 +29,7 @@ $$ ax + by + c = \overline{X} $$
 
 $$ dx + ey + f =\overline{Y} $$
 
-By controlling the  parameters \\( a, b, c, d, e, f \\), we control how the transform shifts $(X, Y)$ to $(\overline{X}, \overline{X})$.
+By controlling the  parameters \\( a, b, c, d, e, f \\), we control how the transform shifts $(X, Y)$ to $(\overline{X}, \overline{Y})$.
 
 For example, the rotation component is given by:
 
