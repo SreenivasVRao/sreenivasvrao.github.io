@@ -44,7 +44,7 @@ And the translation component is given by:
 
 \\[
 \begin{matrix}
-c = t_x  & f = t_y \\\end{matrix}
+c = t_x  & f = t_y \end{matrix}
 \\]
 
 So a single rotation + translation is given by:
@@ -75,17 +75,17 @@ The advantage of this matrix multiplication is that we can extend it to several 
 
 \\[
 \begin{bmatrix}
-a & b & c \\
-d & e & f
+a & b & c \\\
+d & e & f \\\
 \end{bmatrix} 
 \begin{bmatrix}
-X_1 & X_2 & X_3 & \dots & X_K\\
-Y_1 & Y_2 & Y_3 & \dots & Y_K\\
-1 & 1 & 1 & \dots & 1
+X_1 & X_2 & X_3 & \dots & X_K\\\
+Y_1 & Y_2 & Y_3 & \dots & Y_K\\\
+1 & 1 & 1 & \dots & 1\\\
 \end{bmatrix}=
 \begin{bmatrix}
-\overline{X}_1 & \overline{X}_2 & \overline{X}_3 & \dots & \overline{X}_K\\
-\overline{Y}_1 & \overline{Y}_2 & \overline{Y}_3 & \dots & \overline{Y}_K
+\overline{X}_1 & \overline{X}_2 & \overline{X}_3 & \dots & \overline{X}_K\\\
+\overline{Y}_1 & \overline{Y}_2 & \overline{Y}_3 & \dots & \overline{Y}_K\\\
 \end{bmatrix}
 \\]
 
