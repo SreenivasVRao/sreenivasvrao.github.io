@@ -56,16 +56,16 @@ $$ - X sin\theta + Y cos\theta + t_y =  \overline{Y} $$
 
 We can represent this pair of equations as a matrix multiplication:
 
-\\[ 
+\\[
 \begin{bmatrix}
 a & b & c \\\
-d & e & f 
-\end{bmatrix}
+d & e & f
+\end{bmatrix} 
 \begin{bmatrix}
 X\\\
 Y\\\
 1
-end{bmatrix}= 
+\end{bmatrix}=
 \begin{bmatrix}
 \overline{X}\\\
 \overline{Y}
