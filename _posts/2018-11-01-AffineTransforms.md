@@ -65,7 +65,7 @@ d & e & f
 X\\\
 Y\\\
 1
-end{bmatrix} = 
+end{bmatrix}= 
 \begin{bmatrix}
 \overline{X}\\\
 \overline{Y}
