@@ -64,7 +64,7 @@ d & e & f
 \end{bmatrix}
 \begin{bmatrix}
 X\\\
-Y\\\ 
+Y\\\
 1
 end{bmatrix} = 
 \begin{bmatrix}
