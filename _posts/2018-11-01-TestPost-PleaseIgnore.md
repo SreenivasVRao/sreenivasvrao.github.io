@@ -5,7 +5,7 @@ permalink: /blog/TestPost-PleaseIgnore/
 tags:
   - November
 ---
-Test15
+Test16
 \\[
 A=\left[
 \begin{array}\\\
@@ -54,3 +54,22 @@ end{bmatrix}=
 \overline{Y}
 \end{bmatrix}
 \\]
+
+\\[
+\begin{bmatrix}
+a & b & c \\\
+d & e & f
+\end{bmatrix} 
+\begin{bmatrix}
+X\\\
+Y\\\
+1
+\end{bmatrix}=
+\begin{bmatrix}
+\overline{X}\\\
+\overline{Y}
+\end{bmatrix}
+\\]
+
+
+
