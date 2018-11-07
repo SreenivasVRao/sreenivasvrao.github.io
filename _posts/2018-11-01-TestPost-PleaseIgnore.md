@@ -5,7 +5,7 @@ permalink: /blog/TestPost-PleaseIgnore/
 tags:
   - November
 ---
-Test13
+Test14
 \\[
 A=\left[
 \begin{array}\\\
@@ -42,8 +42,8 @@ $$
 \\[ 
 \begin{bmatrix}
 a & b & c \\\
-d & e & f 
-\end{bmatrix}
+d & e & f
+\end{bmatrix} 
 \begin{bmatrix}
 X\\\
 Y\\\
