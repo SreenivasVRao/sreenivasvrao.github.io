@@ -39,7 +39,6 @@ $$
 
 
 \\[
-\begin{align*}
 \begin{bmatrix}
 a & b & c \\\
 d & e & f
@@ -53,5 +52,4 @@ Y_1 & Y_2 & Y_3 & \dots & Y_K\\\
 \overline{X}_1 & \overline{X}_2 & \overline{X}_3 & \dots & \overline{X}_K\\\
 \overline{Y}_1 & \overline{Y}_2 & \overline{Y}_3 & \dots & \overline{Y}_K
 \end{bmatrix}
-\end{align*}
 \\]
