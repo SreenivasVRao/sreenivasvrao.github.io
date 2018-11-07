@@ -57,6 +57,7 @@ $$ - X sin\theta + Y cos\theta + t_y =  \overline{Y} $$
 We can represent this pair of equations as a matrix multiplication:
 
 \\[ 
+\begin{align*}
 \begin{bmatrix}
 a & b & c \\\
 d & e & f \\\
@@ -70,6 +71,7 @@ end{bmatrix} =
 \overline{X}\\\
 \overline{Y}\\\
 \end{bmatrix}
+\end{align*}
 \\]
 
 The advantage of this matrix multiplication is that we can extend it to several more points by simple concatenation :)
