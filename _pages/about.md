@@ -9,7 +9,7 @@ redirect_from:
 
 **Hello. :)**
 
-I'm a 2nd year Masters student in the [College of Information & Computer Sciences](https://www.cics.umass.edu/), at UMass Amherst. I love all things Computer Vision and Machine Learning. Currently, I'm working with [Prof. Erik Learned-Miller](http://people.cs.umass.edu/~elm/) and [Huaizu Jiang](https://people.cs.umass.edu/~hzjiang/), primarily focusing on Self Supervised Learning.  
+I'm a 2nd year Masters student in the [College of Information & Computer Sciences](https://www.cics.umass.edu/), at UMass Amherst. I love all things Computer Vision and Machine Learning. Currently, I'm working with [Prof. Erik Learned-Miller](http://people.cs.umass.edu/~elm/), [Prof. Liangliang Cao](http://people.cs.umass.edu/~llcao/) and [Huaizu Jiang](https://people.cs.umass.edu/~hzjiang/). I've been primarily focusing on Video Interpolation and Self Supervised Learning.  
 
 Before coming to UMass, I completed my undergraduate studies at [SSN College of Engineering](http://www.ssn.edu.in/), Chennai, and graduated with a BEng in Electronics and Communication Engineering in 2017.
 
