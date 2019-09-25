@@ -81,9 +81,9 @@ analytics:
 author:
   name             : "Sreenivas Venkobarao"
   avatar           : "profile.jpg"
-  bio              : "MS CS student at UMass Amherst"
-  location         : "Amherst, MA"
-  employer         :
+  bio              : "SDE Computer Vision R&D"
+  location         : "San Jose, CA"
+  employer         : "WeRide.ai"
   googlescholar    :
   email            : "sreenivasv@ cs dot umass dot edu"
   uri              :
