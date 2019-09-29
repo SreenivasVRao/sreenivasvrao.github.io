@@ -81,9 +81,9 @@ analytics:
 author:
   name             : "Sreenivas Venkobarao"
   avatar           : "profile.jpg"
-  bio              : "SDE Computer Vision R&D"
+  bio              : "SDE Computer Vision R&D at WeRide.ai"
   location         : "San Jose, CA"
-  employer         : "WeRide.ai"
+  employer         :
   googlescholar    :
   email            : "sreenivasv@ cs dot umass dot edu"
   uri              :
