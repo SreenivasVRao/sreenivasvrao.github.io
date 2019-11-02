@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Hello. :)**
-
-I'm currently an R&D Software Engineer at [WeRide.ai](WeRide.ai) in San Jose. I work on the Computer Vision team there, solving challenges in bringing autonomous taxis to the market!
+Hi, I'm Sreenivas. I'm currently an R&D Software Engineer at [WeRide.ai](WeRide.ai) in San Jose. I work on the Computer Vision team there, solving challenges in bringing autonomous taxis to the market!
 
 Previously, I was a Masters student in the [College of Information & Computer Sciences](https://www.cics.umass.edu/), at UMass Amherst. I worked with [Prof. Erik Learned-Miller](http://people.cs.umass.edu/~elm/), [Prof. Liangliang Cao](http://people.cs.umass.edu/~llcao/) and [Huaizu Jiang](https://people.cs.umass.edu/~hzjiang/). I was mainly focused on Video Interpolation and Self Supervised Learning. 
 
