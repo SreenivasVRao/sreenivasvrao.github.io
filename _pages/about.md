@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I'm Sreenivas.
 
-I'm currently a Software Engineer in Amazon's Performance Advertising division in NYC. Previously, I worked at [WeRide.ai](https://www.weride.ai) in San Jose, on the Computer Vision team.
+I'm currently a Software Engineer in Amazon's Performance Advertising division in NYC. 
 
 In 2019, I completed my Masters in Computer Science at [UMass Amherst.](https://cics.umass.edu) As part of the program, I did a capstone project on Video Interpolation and Self Supervised Learning from arbitrary frame synthesis, guided by [Prof. Erik Learned-Miller](http://people.cs.umass.edu/~elm/), [Prof. Liangliang Cao](http://people.cs.umass.edu/~llcao/) and [Huaizu Jiang](https://people.cs.umass.edu/~hzjiang/).
 
