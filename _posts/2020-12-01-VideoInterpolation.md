@@ -11,15 +11,24 @@ This is a snapshot of a portion of the work done as part of my MS project back i
 
 The code is on [github!](https://github.com/SreenivasVRao/SuperSloMo-VideoInterpolation-PyTorch)
 
-Here's a cool example using a video from the DAVIS dataset. The original video is 30FPS, and using a modified version of the neural net architecture from [SuperSloMo (CVPR 2018)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Jiang_Super_SloMo_High_CVPR_2018_paper.pdf), I'm able to slow down the footage 8x.
+Here are some cool visualizations and comparisons with a couple of other methods.
+
+|------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Comparisons                                                                  | Notes                                                                                                                |
+|------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| <img src="https://sreeni-demo-bucket.s3.amazonaws.com/images/sepconv1.png"/> | [Click Here](/video-interp-examples/sepconv) to see more video comparisons with SepConv [Niklaus et. al.] |
+|------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| <img src="https://sreeni-demo-bucket.s3.amazonaws.com/images/TOF3.png"/>     | [Click Here](/video-interp-examples/toflow) to see more video comparisons with TOFlow [Xue et. al.]                                                     |
+|------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| <img src="https://sreeni-demo-bucket.s3.amazonaws.com/images/SSM1.png"/>     | [Click Here](/video-interp-examples/superslomo) to see more video comparisons with SuperSloMo [Jiang et. al.]                                               |
+|------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+
+<br>
+Here's a quick preview example using a video from the DAVIS dataset. The original video is 30FPS, and using a modified version of the neural net architecture from [SuperSloMo (CVPR 2018)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Jiang_Super_SloMo_High_CVPR_2018_paper.pdf), I'm able to slow down the footage 8x.
 
 <video style="display:block; margin: 0 auto;" src="https://sreeni-demo-bucket.s3.amazonaws.com/teaser.mp4" width="640" height="400" controls preload></video>
 <br>
-
-Here are some comparisons with other approaches - [SepConv](http://graphics.cs.pdx.edu/project/sepconv/) and [TOFlow](http://toflow.csail.mit.edu/), besides SuperSloMo. Best viewed in full-screen.
-
-<video style="display:block; margin: 0 auto;" src="https://sreeni-demo-bucket.s3.amazonaws.com/examples.mp4" width="640" height="400" controls preload></video>
-<br>
+If the video doesn't work, right-click [here](https://sreeni-demo-bucket.s3.amazonaws.com/teaser.mp4) and click "Save-As" to download it.
 
 # The Good and The Bad
 This method of video interpolation is able to handle global optical flow estimation very well. Camera motion creates slow rigid motion, and linear interpolation works fine for this case.

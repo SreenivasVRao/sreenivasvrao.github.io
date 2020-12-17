@@ -18,4 +18,10 @@ In the summer of 2018, I interned in the Interactions & Analytics Lab at [PARC (
 And long before that, I completed my undergraduate studies at [SSN College of Engineering](http://www.ssn.edu.in/), Chennai, and graduated with a B. Eng. in Electronics and Communication Engineering in 2017.
 
 
-Currently, I'm fond of Emacs, mechanical keyboards, and Rocket League. :)
+As of December 2020, I'm fond of Emacs, mechanical keyboards, and Rocket League. :)
+
+
+# Links
+
+* [Implementation + Extension](/projects/video-interpolation) of SuperSloMo Video Interpolation (Jiang et. al CVPR 2018).
+* [Making Reddit Safer For Work](https://medium.com/@sreenivasvrao/introducing-u-riskyclickerbot-22b3d56d1e2a) - A (now defunct) reddit bot that flagged explicit images.
