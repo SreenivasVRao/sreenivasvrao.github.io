@@ -24,4 +24,5 @@ As of December 2020, I'm fond of Emacs, mechanical keyboards, and Rocket League.
 # Links
 
 * [Implementation + Extension](/projects/video-interpolation) of SuperSloMo Video Interpolation (Jiang et. al CVPR 2018).
+  <video style="display:block; margin: 0 auto;" src="https://sreeni-demo-bucket.s3.amazonaws.com/teaser.mp4" width="320" height="200" controls preload autoplay loop></video>
 * [Making Reddit Safer For Work](https://medium.com/@sreenivasvrao/introducing-u-riskyclickerbot-22b3d56d1e2a) - A (now defunct) reddit bot that flagged explicit images.
